@@ -1,0 +1,9 @@
+diff --git a/Documento_1.txt b/Documento_1.txt
+index dc03456..c81ad1e 100644
+--- a/Documento_1.txt
++++ b/Documento_1.txt
+@@ -1 +1 @@
+-try xalalala, try xalalal
+\ No newline at end of file
++try xalalala, try xalalala
+\ No newline at end of file
